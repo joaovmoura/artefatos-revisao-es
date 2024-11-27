@@ -1,1 +1,1 @@
-Works selected for the systematic review carried out for the Software Engineering discipline in the Postgraduate course in Computer Science at UFCG.
+The articles here were selected for the systematic review conducted for the Software Engineering discipline in the Postgraduate program in Computer Science at UFCG. Details of the process and some results can be found at this [link]([url](https://docs.google.com/document/d/1nfzvPJZ0ih48oGh531Qfxnu_KQVeFnzF-2GfAh1lgDI/edit?tab=t.0#heading=h.jlvcac5nfe3r)). The final selection is also available in this repository.
