@@ -1,1 +1,1 @@
-Trabalhos selecionados na revisão realizada para a disciplina de Engenharia de Software no curso de Pós-graduação em Ciência da Computação da UFCG.
+Works selected for the systematic review carried out for the Software Engineering discipline in the Postgraduate course in Computer Science at UFCG.
